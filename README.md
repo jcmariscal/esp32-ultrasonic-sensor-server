@@ -9,7 +9,7 @@ ESP32 level measurement up to 4 meters of height.
 
 ## web-interface
 
-![web interface](/images/web-interface.jpeg)
+![web interface](/web-interface.jpeg)
 
 - Obtain the IP address from the ESP32 device with a serial monitor.
 

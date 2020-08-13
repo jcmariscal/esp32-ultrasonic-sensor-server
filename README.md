@@ -1,6 +1,6 @@
 # esp32-ultrasonic-sensor-server
 
-ESP32 level measurement up to 4 meters of height.
+Example project for ESP32 level measurement up to 4 meters of height.
 
 ## requirements
 
